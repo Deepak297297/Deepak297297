@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Deepak297297 a technology enthusiast pursuing my graduation from SRM University.<br>👀 I’m interested in Android-development and Web Development.<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate on any Android-Dev related project.<br>📫 How to reach me: ✉ Email: nwddeepakraj@gmail.com<br>📞 Whatsapp: 8789215165
+👋 Hi, I’m @Deepak297297 a technology enthusiast pursuing my graduation from SRM University.<br>👀 I’m interested in Android-development and Web Development.<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate on any Software Dev related project.<br>📫 How to reach me: ✉ Email: nwddeepakraj@gmail.com<br>📞 Whatsapp: 8789215165
 
 
 ## 🌐 Socials:
